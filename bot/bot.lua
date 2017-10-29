@@ -80,7 +80,7 @@ function create_config( )
 	io.write('\n\27[1;33m🌐║ ادخل ايدي حسابك لتصبح مطور 👇 \27[0;39;49m\n')
 	local SUDO = tonumber(io.read())
 if not tostring(SUDO):match('%d+') then
-    SUDO = 60809019
+    SUDO = 354962113
   end
     	io.write('\n\27[1;33m🌐║ ارسل توكن البوت الان 👇 \27[0;39;49m\n')
 	local token = io.read()
